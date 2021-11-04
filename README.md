@@ -1,11 +1,10 @@
 # Einkaufsliste
 Aufgabe für das Praktikum in OSSE
 
----
-title: Lebenslauf
-author: Julian
-date: 2021-11-04
----
+| Titel: | Lebenslauf |
+|--------|------------|
+| Autor: | Julian     |
+| Datum: | 04.11.2021 |
 
 
 ## Persönliche Daten
