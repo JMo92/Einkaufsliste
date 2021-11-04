@@ -3,7 +3,7 @@ Aufgabe für das Praktikum in OSSE
 
 ---
 title: Lebenslauf
-author: Leonard
+author: Julian
 date: 2021-11-04
 ---
 
@@ -71,4 +71,4 @@ Sprachen
 ---
 
 > <julian.moritz@hs-furtwangen.de> • +49 111 111111  
-> Straße 52 - 11111 Ort  
+=======
